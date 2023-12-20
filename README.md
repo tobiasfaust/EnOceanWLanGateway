@@ -11,4 +11,4 @@
   * RX pullup: ok
  
 FHEM Definition:
-<pre>defmod EnOceanGateway TCM ESP3 <ipadresse>:23</ipadresse>pre>
+<pre>defmod EnOceanGateway TCM ESP3 &#60;ipadresse&#62;:23</ipadresse</pre>
