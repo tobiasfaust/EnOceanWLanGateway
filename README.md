@@ -36,7 +36,7 @@
 </table>
 
 ## Anleitung
-* Jeelabs ESP-Link auf den ESP8266 flashen
+* Jeelabs ESP-Link auf den ESP8266 flashen (-> https://github.com/jeelabs/esp-link/releases/tag/v2.2.3)
 * uC-Console -> Baudrate auf 57600 stellen
 * Pin Assignment setzen
   * Reset: disabled
